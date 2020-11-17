@@ -116,13 +116,13 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Threat Detector
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A software service that processes feed from security cameras to detect unwanted objects(dogs) at unwanted times(eg.midnight) in a certain area and gives you notifications."
+
+      - title: Recycle bin
+        link: "#"
+        tagline: "A confirms what is about to be thrown in bin before allowing"
 
       - title: Tempo
         link: "#"
@@ -162,23 +162,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: C++
         level: 95%
-
-      - name: Ruby on Rails
+        
+       - name: Git
+        level: 95%
+        
+       - name: Python
+        level: 88%
+        
+      - name: HTML5 & CSS
         level: 85%
+        
+      - name: javascript
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: PHP
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
